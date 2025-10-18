@@ -1,0 +1,3 @@
+sqlite3 sensor_data.db
+
+SELECT temperature FROM sensor_data;
